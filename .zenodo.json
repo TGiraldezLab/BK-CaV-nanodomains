@@ -1,0 +1,26 @@
+
+{
+  "creators": [
+    {
+      "name": "Gimeno, Roger",
+      "affiliation": "Universidad de La Laguna, Spain"
+    },
+    {
+      "name": "Bartolomé-Martín, David",
+      "affiliation": "Universidad de La Laguna, Spain"
+    }
+  ],
+  "title": "PNAS STORM analysis code for BK–CaV nanodomains",
+  "description": "Python scripts used for STORM image analysis in Kshatri et al. (2026), Auxiliary BKβ4 subunits promote nanoscale coupling between BK and voltage-gated calcium channels.",
+  "upload_type": "software",
+  "version": "v1.0",
+  "keywords": [
+    "STORM",
+    "BK channels",
+    "calcium channels",
+    "nanodomains",
+    "nearest-neighbor distance",
+    "cluster analysis"
+  ]
+}
+  
